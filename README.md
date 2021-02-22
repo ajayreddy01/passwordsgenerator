@@ -1,15 +1,8 @@
-# passwordsgenerator
+# Password Generator
 A python Script to generate all possible passwords of a given lengths and appends to a txt file
 
 ### Requirements:
-
-
-1.python3
-
-
-2.itertools
-
-
+- python3
+- itertools
 ### Usage:
-
-python main.py
+ - python main.py
