@@ -6,7 +6,7 @@ comb = combinations(['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o'
 def convertTuple(tup): 
     str =  ''.join(tup) 
     f=open("customlist.txt", "a+")
-    f.write(str)
+    f.write("{str}/n")
     f.close()
  
 # Print the obtained combinations 
