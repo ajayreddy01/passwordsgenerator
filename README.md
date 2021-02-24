@@ -4,5 +4,7 @@ A python Script to generate all possible passwords of a given lengths and append
 ### Requirements:
 - python3
 - itertools
+- numba (pip3 install numba)
+- cudatoolkit (pip install cudatoolkit)
 ### Usage:
  - python main.py
